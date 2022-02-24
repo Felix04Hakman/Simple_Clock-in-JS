@@ -1,2 +1,2 @@
 #### Simple_Clock-in-JS
->It`s simple  clocj  create in JavaScript. 
+>It`s simple  clock  create in JavaScript,CSS and HTML.
